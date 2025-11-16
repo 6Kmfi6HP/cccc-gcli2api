@@ -6,7 +6,6 @@ creds/
 # Environment configuration
 .env
 mm.txt
-CLAUDE.md
 
 # Python
 uv.lock
